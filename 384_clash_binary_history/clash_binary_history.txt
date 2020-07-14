@@ -1,1 +1,2 @@
+clash-linux-armv7-v1.0.0
 clashR-linux-armv7-v1.0.0-R

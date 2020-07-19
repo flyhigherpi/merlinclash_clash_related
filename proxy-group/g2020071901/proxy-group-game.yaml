@@ -274,7 +274,6 @@ rules:
   - IP-CIDR,96.6.132.0/24,🎮 游戏平台,no-resolve
 #-----------------------------游戏规则-------------------------------#
 #GTA5
-  - DOMAIN-SUFFIX,rockstargames.com,🚗 GTA5
   - IP-CIDR,2.16.0.0/16,🚗 GTA5,no-resolve
   - IP-CIDR,2.16.10.0/24,🚗 GTA5,no-resolve
   - IP-CIDR,2.17.0.0/16,🚗 GTA5,no-resolve

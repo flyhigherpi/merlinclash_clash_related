@@ -17065,8 +17065,7 @@ rules:
   - DOMAIN-SUFFIX,twimg.co,🇺🇳 国外网站
   - DOMAIN-SUFFIX,twimg.com,🇺🇳 国外网站
   - DOMAIN-SUFFIX,twimg.org,🇺🇳 国外网站
-
-#-----------------GfwList------------------------
+  
 # MyList && Other
   - DOMAIN-SUFFIX,duyaoss.com,🇺🇳 国外网站
   - DOMAIN-SUFFIX,merlinblog.xyz,🇺🇳 国外网站
@@ -17197,12 +17196,6 @@ rules:
   - IP-CIDR,173.194.175.188/32,🇺🇳 国外网站,no-resolve
   - IP-CIDR,173.194.218.188/32,🇺🇳 国外网站,no-resolve
   - IP-CIDR,209.85.233.188/32,🇺🇳 国外网站,no-resolve
-
-#cloudflare CDN
-  - DOMAIN-SUFFIX,ajax.cloudflare.com,🇺🇳 国外网站
-  - DOMAIN-SUFFIX,cdnjs.cloudflare.com,🇺🇳 国外网站
 #-------------------------国外网站完--------------------------------#
-
-#---------------------------国内网站完--------------------------------#
   - GEOIP,CN,🇨🇳 国内IP
   - MATCH,🐟 其他网站

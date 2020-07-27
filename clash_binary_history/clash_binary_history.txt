@@ -1,3 +1,4 @@
+clash-armv8-2020.07.24
 clash-armv8-v0.20.0
 clash-armv8-v1.0.0
 clashR-armv8-v0.20.0-R

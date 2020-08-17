@@ -1,8 +1,5 @@
-clashP-armv8-2020.08.13
+clashP-armv8-2020.08.16
 clash-armv8-v0.20.0
 clash-armv8-v1.0.0
 clashR-armv8-v0.20.0-R
 clashR-armv8-v1.0.0-R
-clashP-armv7-2020.08.13
-clashR-armv7-v1.0.0-R
-clash-armv7-v1.0.0

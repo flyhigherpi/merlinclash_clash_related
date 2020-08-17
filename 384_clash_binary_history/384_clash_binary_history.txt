@@ -1,3 +1,2 @@
+clash-linux-armv5-v1.1.0
 clashP-linux-armv5-2020.08.13
-clash-linux-armv7-v1.0.0
-clashR-linux-armv7-v1.0.0-R

@@ -8,13 +8,15 @@ DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,qobuz.com
 # 内容：Spotify
-DOMAIN-KEYWORD,-spotify-com
-DOMAIN-KEYWORD,spotify.com
-DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,scdn.co
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotifycdn.net
+#DOMAIN-KEYWORD,-spotify-com
+#DOMAIN-KEYWORD,spotify.com
+#DOMAIN-SUFFIX,pscdn.co
+#DOMAIN-SUFFIX,scdn.co
+#DOMAIN-SUFFIX,spoti.fi
+#DOMAIN-SUFFIX,spotify.com
+#DOMAIN-SUFFIX,spotifycdn.net
+#DOMAIN-SUFFIX,spotilocal.com
+#IP-CIDR,35.186.224.47/32,no-resolve
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
@@ -64,17 +66,17 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
 # DisneyPlus
-DOMAIN,cdn.cdn.unid.go.com
-DOMAIN,cdn.registerdisney.go.com
-DOMAIN,global.edge.bamgrid.com
-DOMAIN-SUFFIX,bamgrid.com
-DOMAIN-SUFFIX,braze.com
-DOMAIN-SUFFIX,conviva.com
-DOMAIN-SUFFIX,disney-plus.net
-DOMAIN-SUFFIX,disney.demdex.net
-DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,dssott.com
-DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+#DOMAIN,cdn.cdn.unid.go.com
+#DOMAIN,cdn.registerdisney.go.com
+#DOMAIN,global.edge.bamgrid.com
+#DOMAIN-SUFFIX,bamgrid.com
+#DOMAIN-SUFFIX,braze.com
+#DOMAIN-SUFFIX,conviva.com
+#DOMAIN-SUFFIX,disney-plus.net
+#DOMAIN-SUFFIX,disney.demdex.net
+#DOMAIN-SUFFIX,disneyplus.com
+#DOMAIN-SUFFIX,dssott.com
+#DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 # EncoreTVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,content.jwplatform.com

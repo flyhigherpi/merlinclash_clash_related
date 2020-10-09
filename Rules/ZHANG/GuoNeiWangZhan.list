@@ -1,8 +1,4 @@
 #other 
-DOMAIN-SUFFIX,ol.epicgames.com
-DOMAIN,dl.google.com
-DOMAIN,mtalk.google.com
-DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
@@ -10,7 +6,7 @@ DOMAIN,analytics.strava.com
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
 DOMAIN,app.adjust.com
-#优先直连
+#----------------------------优先直连--------------------------------#
 # 内容：SteamCN
 DOMAIN-SUFFIX,csgo.wmsj.cn
 DOMAIN-SUFFIX,dl.steam.ksyna.com
@@ -42,6 +38,7 @@ DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
 # IQiyi 爱奇艺
 DOMAIN-KEYWORD,qiyi
 DOMAIN-SUFFIX,71.am
@@ -58,11 +55,14 @@ IP-CIDR,119.176.0.0/12,no-resolve
 # Letv 乐视
 DOMAIN-SUFFIX,api.mob.app.letv.com
 # TencentVideo 腾讯视频
+DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,vv.video.qq.com
 # Youku 优酷
 IP-CIDR,106.11.0.0/16,no-resolve
 # MyList
 DOMAIN-SUFFIX,423down.com
+DOMAIN-SUFFIX,bokecc.com
+DOMAIN-SUFFIX,kaikeba.com
 DOMAIN-SUFFIX,bitwarden.com
 DOMAIN-SUFFIX,chaipip.com
 DOMAIN-SUFFIX,hrtsea.com
@@ -326,7 +326,10 @@ DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # Spark
-DOMAIN-SUFFIX,hockeyapp.net 
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,smartmailcloud.com
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
@@ -357,7 +360,7 @@ DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 # YYeTs 人人影视
 DOMAIN-SUFFIX,got001.com
-DOMAIN-SUFFIX,jstucdn.com
+DOMAIN-SUFFIX,p4pfile.com
 DOMAIN-SUFFIX,rrys.tv
 DOMAIN-SUFFIX,rrys2020.com
 DOMAIN-SUFFIX,yyets.com
@@ -403,6 +406,7 @@ DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,leaguehd.com
+DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,nanyangpt.com
@@ -416,11 +420,12 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,trontv.com
 #pcbeta
 DOMAIN-SUFFIX,pcbeta.com
 # TeamViewer
 DOMAIN-SUFFIX,teamviewer.com
-# - IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
 IP-CIDR,139.220.243.27/32,no-resolve
 IP-CIDR,172.16.102.56/32,no-resolve
 IP-CIDR,185.188.32.1/28,no-resolve
@@ -607,7 +612,6 @@ DOMAIN-SUFFIX,quanmin.tv
 DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarzz.com
 DOMAIN-SUFFIX,rarbg.to
-DOMAIN-SUFFIX,rarbg.me
 DOMAIN-SUFFIX,repaik.com
 DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
@@ -621,7 +625,6 @@ DOMAIN-SUFFIX,sm.ms
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,snwx.com
 DOMAIN-SUFFIX,soufunimg.com
-DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
 DOMAIN-SUFFIX,suning.com
@@ -678,8 +681,8 @@ DOMAIN-SUFFIX,zealer.com
 DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhaopin.com
-DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 # -------------------中国云服务商ip端-----------------------------

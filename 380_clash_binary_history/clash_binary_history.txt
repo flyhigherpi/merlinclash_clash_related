@@ -1,2 +1,3 @@
+clash-linux-armv5-v1.2.0_upx
 clash-linux-armv5-v1.2.0
 clash-linux-armv5-v1.1.0

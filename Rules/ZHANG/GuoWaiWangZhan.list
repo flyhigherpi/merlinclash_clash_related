@@ -1,6 +1,8 @@
 #-----------------GfwList------------------------
 # MyList && Other
 DOMAIN,dl.google.com
+DOMAIN-SUFFIX,dler.cloud
+DOMAIN-SUFFIX,dlercloud.com
 DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,googletraveladservices.com
 DOMAIN-SUFFIX,1password.com

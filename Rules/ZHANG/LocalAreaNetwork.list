@@ -12,7 +12,6 @@ IP-CIDR6,::1/128,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
-
 # Router managed 路由器管理域名
 DOMAIN,router.asus.com
 DOMAIN-SUFFIX,hiwifi.com

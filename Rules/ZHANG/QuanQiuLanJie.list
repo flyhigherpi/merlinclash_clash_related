@@ -1,4 +1,5 @@
-#----------------------------去广告--------------------------------#
+# 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
+
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
@@ -17,8 +18,6 @@ DOMAIN-KEYWORD,domob
 DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,guanggao
-DOMAIN-KEYWORD,lianmeng
-DOMAIN-KEYWORD,monitor
 DOMAIN-KEYWORD,omgmta
 DOMAIN-KEYWORD,omniture
 DOMAIN-KEYWORD,openx
@@ -30,6 +29,7 @@ DOMAIN-KEYWORD,tracking
 DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
+
 # 常见互联网公司广告域名
 # Google
 DOMAIN-SUFFIX,admob.com
@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,pagead-tpc.l.google.com
 DOMAIN-SUFFIX,pagead.google.com
 DOMAIN-SUFFIX,pagead.l.google.com
 DOMAIN-SUFFIX,service.urchin.com
+
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn
 DOMAIN-SUFFIX,100peng.com
@@ -320,7 +321,6 @@ DOMAIN-SUFFIX,onetad.com
 DOMAIN-SUFFIX,optaim.com
 DOMAIN-SUFFIX,optimix.asia
 DOMAIN-SUFFIX,optimix.cn
-DOMAIN-SUFFIX,optimizely.com
 DOMAIN-SUFFIX,optimizelyapis.com
 DOMAIN-SUFFIX,overture.com
 DOMAIN-SUFFIX,p0y.cn
@@ -347,6 +347,7 @@ DOMAIN-SUFFIX,rlcdn.com
 DOMAIN-SUFFIX,rtbasia.com
 DOMAIN-SUFFIX,sanya1.com
 DOMAIN-SUFFIX,scupio.com
+DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,shuiguo.com
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,similarweb.com
@@ -446,6 +447,7 @@ DOMAIN-SUFFIX,zhiziyun.com
 DOMAIN-SUFFIX,zhjfad.com
 DOMAIN-SUFFIX,zqzxz.com
 DOMAIN-SUFFIX,zzsx8.com
+
 # 广告联盟-国外****************
 DOMAIN-SUFFIX,acuityplatform.com
 DOMAIN-SUFFIX,ad-stir.com
@@ -600,6 +602,7 @@ DOMAIN-SUFFIX,yadro.ru
 DOMAIN-SUFFIX,yengo.com
 DOMAIN-SUFFIX,zedo.com
 DOMAIN-SUFFIX,zemanta.com
+
 # 垃圾站点****************
 DOMAIN-SUFFIX,11h5.com
 DOMAIN-SUFFIX,1kxun.mobi
@@ -616,8 +619,10 @@ DOMAIN-SUFFIX,wanfeng1.com
 DOMAIN-SUFFIX,wep016.top
 DOMAIN-SUFFIX,win-stock.com.cn
 DOMAIN-SUFFIX,zantainet.com
+
 DOMAIN-SUFFIX,dh54wf.xyz
 DOMAIN-SUFFIX,g2q3e.cn
+
 # 运营商广告****************
 DOMAIN-SUFFIX,114so.cn
 DOMAIN-SUFFIX,go.10086.cn

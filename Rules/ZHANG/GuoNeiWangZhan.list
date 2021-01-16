@@ -1,4 +1,4 @@
-#other 
+#other
 DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
 DOMAIN,livew.l.qq.com
 DOMAIN,vd.l.qq.com
@@ -14,44 +14,19 @@ DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steamgames.com
 DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 #---------------------------国内媒体--------------------------------#
 # Bilibili 哔哩哔哩
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
+
 # IQiyi 爱奇艺
-DOMAIN-KEYWORD,qiyi
-DOMAIN-SUFFIX,71.am
-DOMAIN-SUFFIX,71edge.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,ppsimg.com
-DOMAIN-SUFFIX,qiyi.com
-DOMAIN-SUFFIX,qiyipic.com
-DOMAIN-SUFFIX,qy.net
-IP-CIDR,101.224.0.0/13,no-resolve
-IP-CIDR,101.227.0.0/16,no-resolve
-IP-CIDR,119.176.0.0/12,no-resolve
+
 # Letv 乐视
 DOMAIN-SUFFIX,api.mob.app.letv.com
 # TencentVideo 腾讯视频
@@ -84,7 +59,6 @@ DOMAIN-KEYWORD,alimama
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,appzapp
 DOMAIN-KEYWORD,baidupcs
-DOMAIN-KEYWORD,baidustatic
 DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,ccgslb
 DOMAIN-KEYWORD,chinacache
@@ -204,8 +178,8 @@ DOMAIN-SUFFIX,udache.com
 # Douyu 斗鱼
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
-DOMAIN-SUFFIX,douyutv.com 
-DOMAIN-SUFFIX,douyuscdn.com 
+DOMAIN-SUFFIX,douyuscdn.com
+DOMAIN-SUFFIX,douyutv.com
 # HuaWei
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,hc-cdn.com
@@ -330,11 +304,6 @@ DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,playstationnetwork.com
 DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-# Spark
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,smartmailcloud.com
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
@@ -389,43 +358,7 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 # Private Tracker
-DOMAIN-KEYWORD,announce
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
-DOMAIN-SUFFIX,animetorrents.me
-DOMAIN-SUFFIX,awesome-hd.me
-DOMAIN-SUFFIX,beitai.pt
-DOMAIN-SUFFIX,bittorrent.com
-DOMAIN-SUFFIX,broadcasthe.net
-DOMAIN-SUFFIX,chdbits.co
-DOMAIN-SUFFIX,classix-unlimited.co.uk
-DOMAIN-SUFFIX,empornium.me
-DOMAIN-SUFFIX,gazellegames.net
-DOMAIN-SUFFIX,hd4fans.org
-DOMAIN-SUFFIX,hdchina.org
-DOMAIN-SUFFIX,hdhome.org
-DOMAIN-SUFFIX,hdsky.me
-DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,hdzone.me
-DOMAIN-SUFFIX,icetorrent.org
-DOMAIN-SUFFIX,jpopsuki.eu
-DOMAIN-SUFFIX,keepfrds.com
-DOMAIN-SUFFIX,leaguehd.com
-DOMAIN-SUFFIX,m-team.cc
-DOMAIN-SUFFIX,madsrevolution.net
-DOMAIN-SUFFIX,msg.vg
-DOMAIN-SUFFIX,nanyangpt.com
-DOMAIN-SUFFIX,ncore.cc
-DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,ourbits.club
-DOMAIN-SUFFIX,passthepopcorn.me
-DOMAIN-SUFFIX,privatehd.to
-DOMAIN-SUFFIX,pthome.net
-DOMAIN-SUFFIX,redacted.ch
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,tjupt.org
-DOMAIN-SUFFIX,totheglory.im
-DOMAIN-SUFFIX,trontv.com
+
 #pcbeta
 DOMAIN-SUFFIX,pcbeta.com
 # TeamViewer

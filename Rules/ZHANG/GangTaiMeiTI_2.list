@@ -2,6 +2,7 @@
 DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
 DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,profile.line-scdn.net
 # KKTV
 DOMAIN,kktv-theater.kk.stream
 DOMAIN-SUFFIX,kktv.com.tw
@@ -10,6 +11,8 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN-SUFFIX,litv.tv
 # MyTVSuper
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 # HBO
@@ -37,7 +40,7 @@ DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viu.now.com
-DOMAIN-SUFFIX,viu.tv   
+DOMAIN-SUFFIX,viu.tv
 #TaiWanGood
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,skyking.com.tw

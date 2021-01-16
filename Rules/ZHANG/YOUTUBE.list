@@ -1,12 +1,9 @@
 #YouTube
 DOMAIN-KEYWORD,youtube
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtube-nocookie.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,app-measurement.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com

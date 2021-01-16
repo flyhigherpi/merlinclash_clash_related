@@ -1,8 +1,22 @@
-# 内容：BilibiliHMT 哔哩哔哩 港澳台番剧
-# 数量：13条
+# 内容：Bilibili 哔哩哔哩
+USER-AGENT,Bilibili*
+USER-AGENT,bili*
 DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
 IP-CIDR,45.43.32.234/32
 IP-CIDR,119.29.29.29/32
 IP-CIDR,128.1.62.200/32

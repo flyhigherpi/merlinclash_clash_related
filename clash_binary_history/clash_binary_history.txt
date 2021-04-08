@@ -1,7 +1,4 @@
+clashP-armv8-2021.04.08_upx
 clashP-armv8-2021.03.10_upx
-clashP-armv8-2021.02.21_upx
-clashP-armv8-2020.12.27_upx
-clashP-armv8-2020.12.21_upx
-clashP-armv8-2020.11.20_upx
 clash-armv8-v1.3.0_upx
 clashR-armv8-v1.0.0-R

@@ -26,7 +26,6 @@ payload:
   - DOMAIN-KEYWORD,pingfore
   - DOMAIN-KEYWORD,socdm
   - DOMAIN-KEYWORD,supersonicads
-  - DOMAIN-KEYWORD,tracking
   - DOMAIN-KEYWORD,usage
   - DOMAIN-KEYWORD,wlmonitor
   - DOMAIN-KEYWORD,zjtoolbar

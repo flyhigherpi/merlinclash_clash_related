@@ -1,6 +1,6 @@
 payload:
   # 内容：HBO
-  # 数量：20条
+  # 数量：21条
   # USER-AGENT,HBO%20GO%20PROD%20HKG*
   # USER-AGENT,HBO%20NOW*
   # USER-AGENT,HBOMAX*
@@ -20,4 +20,5 @@ payload:
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
   - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com

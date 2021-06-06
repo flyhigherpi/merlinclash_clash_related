@@ -1,7 +1,7 @@
 payload:
   # 内容：国外媒体列表
-  # 更新：2021-01-22 23:43:43
-  # 数量：320条
+  # 更新：2021-05-20 21:10:54
+  # 数量：318条
 
   # ABC
   - DOMAIN-SUFFIX,edgedatg.com
@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbc.net.uk
   - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
   - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,bbci.co.uk
@@ -122,20 +123,7 @@ payload:
   # USER-AGENT,FOX%20NOW*
   - DOMAIN-SUFFIX,fox.com
   - DOMAIN-SUFFIX,foxdcg.com
-  - DOMAIN-SUFFIX,theplatform.com
   - DOMAIN-SUFFIX,uplynk.com
-
-  # FoxPlus
-  # USER-AGENT,FOXPlus*
-  - DOMAIN,cdn-fox-networks-group-green.akamaized.net
-  - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
-  - DOMAIN,foxsports01-i.akamaihd.net
-  - DOMAIN,foxsports02-i.akamaihd.net
-  - DOMAIN,foxsports03-i.akamaihd.net
-  - DOMAIN,staticasiafox.akamaized.net
-  - DOMAIN-SUFFIX,akamaized.net
-  - DOMAIN-SUFFIX,foxplus.com
-  - DOMAIN-SUFFIX,theplatform.com
 
   # HBO
   # USER-AGENT,HBO%20GO%20PROD%20HKG*
@@ -157,10 +145,12 @@ payload:
   - DOMAIN-SUFFIX,hbogoasia.com
   - DOMAIN-SUFFIX,hbogoasia.hk
   - DOMAIN-SUFFIX,hbomax.com
+  - DOMAIN-SUFFIX,hbomaxcdn.com
   - DOMAIN-SUFFIX,hbonow.com
 
   # HBO_GO_HKG
-  # USER-AGENT,HBO%20GO%20PROD%20HKG*
+  # USER-AGENT,HBO%20GO%20PROD*
+  - DOMAIN-KEYWORD,.hbogoasia.
   - DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
   - DOMAIN,bcbolthboa-a.akamaihd.net
   - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
@@ -170,6 +160,10 @@ payload:
   - DOMAIN,hboasia3-i.akamaihd.net
   - DOMAIN,hboasia4-i.akamaihd.net
   - DOMAIN,hboasia5-i.akamaihd.net
+  - DOMAIN,hboasialive.akamaized.net
+  - DOMAIN,hbogoprod-vod.akamaized.net
+  - DOMAIN,hbolb.onwardsmg.com
+  - DOMAIN,hbounify-prod.evergent.com
   - DOMAIN,players.brightcove.net
   - DOMAIN,s3-ap-southeast-1.amazonaws.com
   - DOMAIN-SUFFIX,hbogoasia.com
@@ -191,6 +185,7 @@ payload:
 
   # HuluJapan
   - DOMAIN-SUFFIX,happyon.jp
+  - DOMAIN-SUFFIX,hjholdings.jp
   - DOMAIN-SUFFIX,hulu.jp
   - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,streaks.jp
@@ -259,7 +254,7 @@ payload:
 
   # Netflix
   # USER-AGENT,Argo*
-  - DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
+  - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
   - DOMAIN,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,fast.com
@@ -338,6 +333,7 @@ payload:
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spoti.fi
   - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotifycdn.com
   - DOMAIN-SUFFIX,spotifycdn.net
 
   # TIDAL

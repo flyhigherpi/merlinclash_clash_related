@@ -8,15 +8,7 @@ DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN,hamifans.emome.net
 DOMAIN-SUFFIX,qobuz.com
 # 内容：Spotify
-#DOMAIN-KEYWORD,-spotify-com
-#DOMAIN-KEYWORD,spotify.com
-#DOMAIN-SUFFIX,pscdn.co
-#DOMAIN-SUFFIX,scdn.co
-#DOMAIN-SUFFIX,spoti.fi
-#DOMAIN-SUFFIX,spotify.com
-#DOMAIN-SUFFIX,spotifycdn.net
-#DOMAIN-SUFFIX,spotilocal.com
-#IP-CIDR,35.186.224.47/32,no-resolve
+
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
 DOMAIN-SUFFIX,go.com
@@ -24,7 +16,6 @@ DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,channel4.com
 # Amazon
-# DOMAIN-SUFFIX,aiv-cdn.net
 DOMAIN,atv-ps.amazon.
 DOMAIN,fls-na.amazon.com
 DOMAIN-SUFFIX,media-amazon.com
@@ -33,9 +24,6 @@ DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.co.uk
 DOMAIN-SUFFIX,amazonaws.com
-# DOMAIN-SUFFIX,amazonvideo.com
-# DOMAIN-SUFFIX,llnwd.net
-# DOMAIN-SUFFIX,primevideo.com
 IP-CIDR,13.32.0.0/15,no-resolve
 IP-CIDR,13.35.0.0/17,no-resolve
 IP-CIDR,18.184.0.0/15,no-resolve
@@ -89,26 +77,7 @@ DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
 # DisneyPlus
-#DOMAIN,cdn.registerdisney.go.com
-#DOMAIN-SUFFIX,adobedtm.com
-#DOMAIN-SUFFIX,bam.nr-data.net
-#DOMAIN-SUFFIX,bamgrid.com
-#DOMAIN-SUFFIX,braze.com
-#DOMAIN-SUFFIX,cdn.optimizely.com
-#DOMAIN-SUFFIX,cdn.registerdisney.go.com
-#DOMAIN-SUFFIX,cws.conviva.com
-#DOMAIN-SUFFIX,d9.flashtalking.com
-#DOMAIN-SUFFIX,disney-plus.net
-#DOMAIN-SUFFIX,disney-portal.my.onetrust.com
-#DOMAIN-SUFFIX,disney.demdex.net
-#DOMAIN-SUFFIX,disney.my.sentry.io
-#DOMAIN-SUFFIX,disneyplus.bn5x.net
-#DOMAIN-SUFFIX,disneyplus.com
-#DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
-#DOMAIN-SUFFIX,disneystreaming.com
-#DOMAIN-SUFFIX,dssott.com
-#DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
-#DOMAIN-SUFFIX,js-agent.newrelic.com
+
 # EncoreTVB
 DOMAIN,bcbolt446c5271-a.akamaihd.net
 DOMAIN,content.jwplatform.com
@@ -218,6 +187,7 @@ DOMAIN,vod-thumb-uk-live.akamaized.net
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.net.uk
 DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
@@ -273,3 +243,10 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,twitter.jp
 DOMAIN-SUFFIX,vine.co
+#E-Hentai Galleries
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,ehwiki.org
+DOMAIN-SUFFIX,ehgt.org
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,hentaiverse.org
+DOMAIN-SUFFIX,hath.network

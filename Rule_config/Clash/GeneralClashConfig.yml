@@ -244,6 +244,7 @@ cfw-bypass-bak:
 cfw-bypass:
   # 直连列表
   # MyList
+  - "*.13th.tech"
   - "*.423down.com"
   - "*.bokecc.com"
   - "*.chaipip.com"
@@ -252,6 +253,7 @@ cfw-bypass:
   - "*.kaikeba.com"
   - "*.laomo.me"
   - "*.mpyit.com"
+  - "*.qupu123.com"
   # CN域名直连
   - "*.cn"
   - "*.中国"
@@ -780,7 +782,6 @@ cfw-bypass:
   - "*.oracle.com"
   - "*.oschina.net"
   - "*.ourdvs.com"
-  - "*.overcast.fm"
   - "*.paypal.com"
   - "*.polyv.net"
   - "*.qbox.me"

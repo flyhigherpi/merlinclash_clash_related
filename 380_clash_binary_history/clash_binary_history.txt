@@ -1,5 +1,3 @@
 clashP-armv5-2021.09.07_upx
 clashP-armv5-2021.07.03_upx
-clashP-armv5-2021.05.08_upx
-clash-armv5-v1.3.0_upx
-clash-armv5-v1.3.0
+clashV-armv5-v1.7.3

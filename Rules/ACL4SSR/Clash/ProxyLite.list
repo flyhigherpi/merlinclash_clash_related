@@ -129,6 +129,7 @@ DOMAIN-SUFFIX,netdna-cdn.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nytstyle.com
+DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pinimg.com
@@ -377,10 +378,7 @@ DOMAIN-SUFFIX,smartmailcloud.com
 # Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
-DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamcommunity.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
 
 # TapTap
 DOMAIN-SUFFIX,tap.io

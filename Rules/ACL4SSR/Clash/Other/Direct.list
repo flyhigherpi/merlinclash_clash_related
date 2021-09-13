@@ -1,0 +1,6 @@
+# 直连补充规则
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN-SUFFIX,sellercentral.amazon.com
+DOMAIN-SUFFIX,advertising.amazon.com

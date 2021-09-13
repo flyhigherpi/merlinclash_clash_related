@@ -1,0 +1,13 @@
+# 游戏平台补充规则
+#Rstar
+DOMAIN-KEYWORD,rockstargames
+DOMAIN,a.rsg.sc
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,media-rockstargames-com.akamaized.net
+DOMAIN,videos-rockstargames-com.akamaized.net
+DOMAIN,rockstarsupport.goquiq.com
+DOMAIN,ocsp.entrust.net
+DOMAIN,stats.g.doubleclick.net
+DOMAIN,static.quiq-cdn.com
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,rockstargames.com

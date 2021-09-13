@@ -1,0 +1,57 @@
+# 代理补充规则
+# porn
+DOMAIN-SUFFIX,avgle.com
+DOMAIN-SUFFIX,qooqlevideo.com
+DOMAIN-SUFFIX,cdn-video03.xyz
+DOMAIN-SUFFIX,gavgle.com
+DOMAIN-SUFFIX,91p52.com
+DOMAIN-SUFFIX,91p07.com
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,wonderfulday21.live
+
+#cloudflare CDN  
+DOMAIN-SUFFIX,ajax.cloudflare.com
+DOMAIN-SUFFIX,cdnjs.cloudflare.com
+  
+# MyList && Other
+DOMAIN-SUFFIX,duyaoss.com
+DOMAIN-SUFFIX,merlinblog.xyz
+DOMAIN-SUFFIX,skk.moe
+DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,substack.com
+DOMAIN-SUFFIX,a248.e.akamai.net
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,armorgames.com
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,bkrtx.com
+DOMAIN-SUFFIX,blogcdn.com
+DOMAIN-SUFFIX,blogsmithmedia.com
+DOMAIN-SUFFIX,cachefly.net
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,deskconnect.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,id.heroku.com
+DOMAIN-SUFFIX,io.io
+DOMAIN-SUFFIX,kat.cr
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,megaupload.com
+DOMAIN-SUFFIX,netdna-cdn.com
+DOMAIN-SUFFIX,nintendo.net
+DOMAIN-SUFFIX,nsstatic.net
+DOMAIN-SUFFIX,prfct.co
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,textnow.com
+DOMAIN-SUFFIX,thepiratebay.org
+DOMAIN-SUFFIX,trustasiassl.com
+DOMAIN-SUFFIX,tumblr.co
+DOMAIN-SUFFIX,txmblr.com
+DOMAIN-SUFFIX,vox-cdn.com

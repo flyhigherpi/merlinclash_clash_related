@@ -1,4 +1,6 @@
 # 直连补充规则
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN,checkip.synology.com
 DOMAIN,checkipv6.synology.com
 DOMAIN,checkport.synology.com

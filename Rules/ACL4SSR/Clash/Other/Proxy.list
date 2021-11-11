@@ -12,7 +12,16 @@ DOMAIN-SUFFIX,wonderfulday21.live
 #cloudflare CDN  
 DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
-  
+
+#skkAPI
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,ip.skk.moe
+DOMAIN-SUFFIX,api.ipify.org
+DOMAIN-SUFFIX,api.ipify.org.herokudns.com
+DOMAIN-SUFFIX,api.ip.sb.cdn.cloudflare.net
+DOMAIN-SUFFIX,a.nel.cloudflare.com
+IP-CIDR,104.17.107.0/24,no-resolve
+
 # MyList && Other
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,merlinblog.xyz

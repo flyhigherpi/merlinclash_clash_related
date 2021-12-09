@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,wonderfulday21.live
 DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 
+#Rumble
+DOMAIN-SUFFIX,rumble.com
+DOMAIN-SUFFIX,rmbl.ws
+
 #skkAPI
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip.skk.moe

@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2021-09-21 16:10:55
-# 数量：344条
+# 更新：2021-11-28 15:59:54
+# 数量：345条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -426,6 +426,7 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 
 # YouTubeMusic
-PROCESS-NAME,com.google.android.apps.youtube.music
-PROCESS-NAME,com.google.android.youtube.tvmusicroot
-PROCESS-NAME,com.vanced.android.apps.youtube.music
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*

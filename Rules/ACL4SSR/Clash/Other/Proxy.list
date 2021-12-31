@@ -17,6 +17,10 @@ DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,rumble.com
 DOMAIN-SUFFIX,rmbl.ws
 
+#Mudvod
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,vod360.net
+
 #skkAPI
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ip.skk.moe

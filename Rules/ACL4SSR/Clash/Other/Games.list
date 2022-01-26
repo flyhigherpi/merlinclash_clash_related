@@ -11,3 +11,6 @@ DOMAIN,stats.g.doubleclick.net
 DOMAIN,static.quiq-cdn.com
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,rockstargames.com
+
+#Steam
+DOMAIN-SUFFIX,store.steampowered.com

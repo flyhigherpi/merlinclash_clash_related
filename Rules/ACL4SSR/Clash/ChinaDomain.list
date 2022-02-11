@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,mpyit.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,qupu123.com
+DOMAIN-SUFFIX,pdfwifi.com
 
 # CN域名直连
 DOMAIN-SUFFIX,cn
@@ -120,7 +121,6 @@ DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
@@ -309,20 +309,20 @@ DOMAIN-SUFFIX,sony.com
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # SteamCN
-DOMAIN-SUFFIX,csgo.wmsj.cn
-DOMAIN-SUFFIX,dl.steam.ksyna.com
-DOMAIN-SUFFIX,dota2.wmsj.cn
-DOMAIN-SUFFIX,st.dl.bscstorage.net
-DOMAIN-SUFFIX,st.dl.eccdnx.com
-DOMAIN-SUFFIX,st.dl.pinyuncloud.com
-DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamgames.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
-DOMAIN-SUFFIX,steamstat.us
-DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
-DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN,csgo.wmsj.cn
+DOMAIN,dota2.wmsj.cn
+DOMAIN,wmsjsteam.com
+DOMAIN,dl.steam.clngaa.com
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,st.dl.bscstorage.net
+DOMAIN,st.dl.eccdnx.com
+DOMAIN,st.dl.pinyuncloud.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steampowered.com.8686c.com
+DOMAIN,steamstatic.com.8686c.com
 
 # Tencent
 DOMAIN-SUFFIX,foxmail.com
@@ -442,7 +442,6 @@ IP-CIDR6,2a0b:b583::/48,no-resolve
 DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
@@ -566,7 +565,6 @@ DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,lemicp.com
 DOMAIN-SUFFIX,letitfly.me
-DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,lizhifm.com

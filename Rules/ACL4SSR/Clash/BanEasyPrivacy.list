@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2022-01-23 19:23:32
-# 数量：12614条
+# 更新：2022-02-05 10:49:16
+# 数量：12615条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,a.thexfactorusa.com
 DOMAIN-SUFFIX,a.tovarro.com
 DOMAIN-SUFFIX,a.visitefoz.com.br
 DOMAIN-SUFFIX,a1.api.bbc.co.uk
+DOMAIN-SUFFIX,a10.nationalreview.com
 DOMAIN-SUFFIX,a10695.actonservice.com
 DOMAIN-SUFFIX,a11058.actonservice.com
 DOMAIN-SUFFIX,a11413003.actonservice.com
@@ -1027,7 +1028,6 @@ DOMAIN-SUFFIX,analytics-proxy.springboard.com
 DOMAIN-SUFFIX,analytics-rhwg.rhcloud.com
 DOMAIN-SUFFIX,analytics-scripts.cablelabs.com
 DOMAIN-SUFFIX,analytics-sg.tiktok.com
-DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com
 DOMAIN-SUFFIX,analytics.126.net
 DOMAIN-SUFFIX,analytics.163.com
 DOMAIN-SUFFIX,analytics.30m.com
@@ -1324,7 +1324,6 @@ DOMAIN-SUFFIX,app.info.coopenae.fi.cr
 DOMAIN-SUFFIX,app.information.maileva.com
 DOMAIN-SUFFIX,app.mktg.genesys.com
 DOMAIN-SUFFIX,app.response.siemens-info.com
-DOMAIN-SUFFIX,app.sephora.com
 DOMAIN-SUFFIX,app.thomsonreuters.com
 DOMAIN-SUFFIX,app.updates.digicert.com
 DOMAIN-SUFFIX,app03.ikk-classic.de
@@ -3746,6 +3745,7 @@ DOMAIN-SUFFIX,gdsngr.chainreactioncycles.com
 DOMAIN-SUFFIX,gefkkw.cyberport.de
 DOMAIN-SUFFIX,gekko.spiceworks.com
 DOMAIN-SUFFIX,gemius.mgr.consensu.org
+DOMAIN-SUFFIX,genesis.malwarebytes.com
 DOMAIN-SUFFIX,geo.emol.cl
 DOMAIN-SUFFIX,geo.ertya.com
 DOMAIN-SUFFIX,geo.gfycat.com
@@ -6207,7 +6207,6 @@ DOMAIN-SUFFIX,metrics.scribblelive.com
 DOMAIN-SUFFIX,metrics.seagate.com
 DOMAIN-SUFFIX,metrics.seawheeze.com
 DOMAIN-SUFFIX,metrics.sen.com.au
-DOMAIN-SUFFIX,metrics.sephora.com
 DOMAIN-SUFFIX,metrics.sfr.fr
 DOMAIN-SUFFIX,metrics.shangri-la.com
 DOMAIN-SUFFIX,metrics.sharecare.com
@@ -9214,7 +9213,6 @@ DOMAIN-SUFFIX,smetrics.seb.lv
 DOMAIN-SUFFIX,smetrics.seguro.mediaset.es
 DOMAIN-SUFFIX,smetrics.sen.com.au
 DOMAIN-SUFFIX,smetrics.sensai-cosmetics.com
-DOMAIN-SUFFIX,smetrics.sephora.com
 DOMAIN-SUFFIX,smetrics.sfr.fr
 DOMAIN-SUFFIX,smetrics.shangri-la.com
 DOMAIN-SUFFIX,smetrics.shannons.com.au
@@ -10068,6 +10066,7 @@ DOMAIN-SUFFIX,stats.dailyposter.com
 DOMAIN-SUFFIX,stats.dashbit.co
 DOMAIN-SUFFIX,stats.datahjaelp.net
 DOMAIN-SUFFIX,stats.davestewart.co.uk
+DOMAIN-SUFFIX,stats.davidickedelivery.com
 DOMAIN-SUFFIX,stats.davidlms.com
 DOMAIN-SUFFIX,stats.deutschlandsim.de
 DOMAIN-SUFFIX,stats.deva.guru
@@ -10293,7 +10292,6 @@ DOMAIN-SUFFIX,stats.shareup.app
 DOMAIN-SUFFIX,stats.sheer.tj
 DOMAIN-SUFFIX,stats.shell-tips.com
 DOMAIN-SUFFIX,stats.shepherd.com
-DOMAIN-SUFFIX,stats.shopify.com
 DOMAIN-SUFFIX,stats.shoutout.so
 DOMAIN-SUFFIX,stats.sim.de
 DOMAIN-SUFFIX,stats.simplytel.de
@@ -11565,6 +11563,7 @@ DOMAIN-SUFFIX,tracking.novem.pl
 DOMAIN-SUFFIX,tracking.oceaneering.com
 DOMAIN-SUFFIX,tracking.oe24.at
 DOMAIN-SUFFIX,tracking.oldnational.com
+DOMAIN-SUFFIX,tracking.olx-st.com
 DOMAIN-SUFFIX,tracking.omron.cz
 DOMAIN-SUFFIX,tracking.omron.ru
 DOMAIN-SUFFIX,tracking.opentable.com
@@ -11603,6 +11602,7 @@ DOMAIN-SUFFIX,tracking.sezzle.com
 DOMAIN-SUFFIX,tracking.sharplink.us
 DOMAIN-SUFFIX,tracking.shl.com
 DOMAIN-SUFFIX,tracking.shop.verymobile.it
+DOMAIN-SUFFIX,tracking.shopstyle.co.uk
 DOMAIN-SUFFIX,tracking.shopstyle.com
 DOMAIN-SUFFIX,tracking.sierrawireless.com
 DOMAIN-SUFFIX,tracking.smartbets.com
@@ -11719,7 +11719,6 @@ DOMAIN-SUFFIX,trk.nuernberger.de
 DOMAIN-SUFFIX,trk.nuernberger.digital
 DOMAIN-SUFFIX,trk.optum.com
 DOMAIN-SUFFIX,trk.plasticstoday.com
-DOMAIN-SUFFIX,trk.s.sephora.com
 DOMAIN-SUFFIX,trk.techtarget.com
 DOMAIN-SUFFIX,trk.thinkhdi.com
 DOMAIN-SUFFIX,trk.us.underarmour.com
@@ -11844,7 +11843,6 @@ DOMAIN-SUFFIX,uwy4.aegon.es
 DOMAIN-SUFFIX,uzd1.madeindesign.com
 DOMAIN-SUFFIX,v.emedia.cn
 DOMAIN-SUFFIX,v.oui.sncf
-DOMAIN-SUFFIX,v.shopify.com
 DOMAIN-SUFFIX,v1sts.me
 DOMAIN-SUFFIX,v87p9d3uxu13.fjlaboratories.com
 DOMAIN-SUFFIX,vanfireworks.com
@@ -11902,6 +11900,7 @@ DOMAIN-SUFFIX,visits.quitsocialmedia.club
 DOMAIN-SUFFIX,visits.tommi.space
 DOMAIN-SUFFIX,vivaciousveil.com
 DOMAIN-SUFFIX,vkiais.brendi.pl
+DOMAIN-SUFFIX,vlogs.deja.media
 DOMAIN-SUFFIX,vlwutxd95syk.www.usa-corporate.com
 DOMAIN-SUFFIX,vmstats.varrando.com
 DOMAIN-SUFFIX,vmsxzx.buienradar.nl
@@ -12563,6 +12562,7 @@ DOMAIN-SUFFIX,yyhijp.g123.jp
 DOMAIN-SUFFIX,yzjqqj.emmiol.com
 DOMAIN-SUFFIX,z.cdp-dev.cnn.com
 DOMAIN-SUFFIX,z0uolej1qnxzub1.info
+DOMAIN-SUFFIX,za.zdn.vn
 DOMAIN-SUFFIX,zaawds.farmae.it
 DOMAIN-SUFFIX,zam.nextinpact.com
 DOMAIN-SUFFIX,zaventemdijleland.viessmann.be
@@ -12590,6 +12590,7 @@ DOMAIN-SUFFIX,zm5d.lexpress.fr
 DOMAIN-SUFFIX,zminer.zaloapp.com
 DOMAIN-SUFFIX,znq9.destinia.mx
 DOMAIN-SUFFIX,zoiajw.yves-rocher.cz
+DOMAIN-SUFFIX,zononi.com
 DOMAIN-SUFFIX,zoomhead.xyz
 DOMAIN-SUFFIX,zopqks.kavehome.com
 DOMAIN-SUFFIX,zpnrnr.ab-in-den-urlaub.de

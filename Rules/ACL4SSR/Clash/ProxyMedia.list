@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2022-02-02 20:08:23
-# 数量：324条
+# 更新：2022-03-03 22:44:48
+# 数量：323条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,bidi.net.uk
 
 # Bahamut
 USER-AGENT,Anime*
+DOMAIN,bahamut.akamaized.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 DOMAIN-SUFFIX,bahamut.com.tw
@@ -250,8 +251,9 @@ DOMAIN-SUFFIX,tvb.com
 
 # Netflix
 USER-AGENT,Argo*
+DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
-DOMAIN-KEYWORD,dualstack.ichnaea-web-
+DOMAIN-KEYWORD,netflixdnstest
 DOMAIN,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
@@ -273,12 +275,9 @@ DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 IP-CIDR,8.41.4.0/24,no-resolve
 IP-CIDR,23.246.0.0/18,no-resolve
-IP-CIDR,34.210.42.111/32,no-resolve
 IP-CIDR,37.77.184.0/21,no-resolve
 IP-CIDR,38.72.126.0/24,no-resolve
 IP-CIDR,45.57.0.0/17,no-resolve
-IP-CIDR,52.89.124.203/32,no-resolve
-IP-CIDR,54.148.37.5/32,no-resolve
 IP-CIDR,64.120.128.0/17,no-resolve
 IP-CIDR,66.197.128.0/17,no-resolve
 IP-CIDR,69.53.224.0/19,no-resolve
@@ -345,7 +344,7 @@ DOMAIN-SUFFIX,skyking.com.tw
 
 # TikTok
 USER-AGENT,TikTok*
-DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-KEYWORD,tiktokcdn-
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ipstatp.com

@@ -21,6 +21,8 @@ IP-CIDR6,fe80::/10,no-resolve
 IP-CIDR6,fd00::/8,no-resolve
 
 # Router managed 路由器管理域名
+DOMAIN,instant.arubanetworks.com
+DOMAIN,setmeup.arubanetworks.com
 DOMAIN,router.asus.com
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,leike.cc
@@ -29,6 +31,7 @@ DOMAIN-SUFFIX,my.router
 DOMAIN-SUFFIX,p.to
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,phicomm.me
+DOMAIN-SUFFIX,router.ctc
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home

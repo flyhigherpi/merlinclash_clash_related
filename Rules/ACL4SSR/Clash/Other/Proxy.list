@@ -23,6 +23,8 @@ DOMAIN-SUFFIX,a.nel.cloudflare.com
 IP-CIDR,104.17.107.0/24,no-resolve
 
 # MyList && Other
+DOMAIN-SUFFIX,ifixit.com
+DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,merlinblog.xyz
 DOMAIN-SUFFIX,skk.moe

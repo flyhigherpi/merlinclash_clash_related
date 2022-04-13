@@ -257,7 +257,9 @@ cfw-bypass:
   - "*.msftncsi.com"
   - "*.qupu123.com"
   - "*.pdfwifi.com"
-  # CN域名直连
+  - "*.zhenguanyu.biz"
+  - "*.zhenguanyu.com"
+  # CN域名直连(中国|公司|网络)
   - "*.cn"
   - "*.xn--fiqs8s"
   - "*.xn--55qx5d"
@@ -786,7 +788,6 @@ cfw-bypass:
   - "*.oracle.com"
   - "*.oschina.net"
   - "*.ourdvs.com"
-  - "*.paypal.com"
   - "*.polyv.net"
   - "*.qbox.me"
   - "*.qcloud.com"

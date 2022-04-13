@@ -29,28 +29,6 @@ DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
-# 常见互联网公司广告域名
-# Google
-DOMAIN-SUFFIX,admob.com
-DOMAIN-SUFFIX,ads.gmodules.com
-DOMAIN-SUFFIX,ads.google.com
-DOMAIN-SUFFIX,adservice.google.com
-DOMAIN-SUFFIX,afd.l.google.com
-DOMAIN-SUFFIX,badad.googleplex.com
-DOMAIN-SUFFIX,csi.gstatic.com
-DOMAIN-SUFFIX,doubleclick.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleadsserving.cn
-DOMAIN-SUFFIX,googlecommerce.com
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,mobileads.google.com
-DOMAIN-SUFFIX,pagead-tpc.l.google.com
-DOMAIN-SUFFIX,pagead.google.com
-DOMAIN-SUFFIX,pagead.l.google.com
-DOMAIN-SUFFIX,service.urchin.com
-
 # 广告联盟-国内****************
 DOMAIN-SUFFIX,09mk.cn
 DOMAIN-SUFFIX,100peng.com
@@ -303,6 +281,7 @@ DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mobgi.com
 DOMAIN-SUFFIX,mobisage.cn
 DOMAIN-SUFFIX,mobvista.com
+DOMAIN-SUFFIX,moogos.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,moquanad.com
 DOMAIN-SUFFIX,mpush.cn
@@ -397,6 +376,7 @@ DOMAIN-SUFFIX,usingde.com
 DOMAIN-SUFFIX,uuzu.com
 DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,vamaker.com
+DOMAIN-SUFFIX,vlion.cn
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,voiceads.com
 DOMAIN-SUFFIX,vpon.com

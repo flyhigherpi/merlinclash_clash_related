@@ -1,8 +1,8 @@
 # 广告列表 adblock rules
 # 内容：EasyPrivacy列表，隐私保护，屏蔽隐私追踪
 # 来源：https://easylist-downloads.adblockplus.org/easyprivacy.txt
-# 更新：2022-03-09 22:32:48
-# 数量：12403条
+# 更新：2022-03-12 13:36:35
+# 数量：12408条
 
 DOMAIN-SUFFIX,0sbm.consobaby.co.uk
 DOMAIN-SUFFIX,0x1f4b0.com
@@ -1789,6 +1789,7 @@ DOMAIN-SUFFIX,briskeagle.io
 DOMAIN-SUFFIX,briskpelican.io
 DOMAIN-SUFFIX,brizxe.dior.com
 DOMAIN-SUFFIX,broadboundary.com
+DOMAIN-SUFFIX,brontops.com
 DOMAIN-SUFFIX,brothersbucket.com
 DOMAIN-SUFFIX,browser-updater.yandex.net
 DOMAIN-SUFFIX,browser.events.data.microsoft.com
@@ -1906,6 +1907,7 @@ DOMAIN-SUFFIX,capablecows.com
 DOMAIN-SUFFIX,capablecup.com
 DOMAIN-SUFFIX,capture-api.ap3prod.com
 DOMAIN-SUFFIX,capture.condenastdigital.com
+DOMAIN-SUFFIX,capturehighered.net
 DOMAIN-SUFFIX,carburanalyticsspace.carte-gr.total.fr
 DOMAIN-SUFFIX,carburantsanalyticsa.carte-gr.total.fr
 DOMAIN-SUFFIX,carburez-a-l-emotion.carte-gr.total.fr
@@ -2817,6 +2819,7 @@ DOMAIN-SUFFIX,dragon.moneycoach.io
 DOMAIN-SUFFIX,dragzebra.com
 DOMAIN-SUFFIX,dramaticcondition.com
 DOMAIN-SUFFIX,dramaticdirection.com
+DOMAIN-SUFFIX,dratingmaject.com
 DOMAIN-SUFFIX,drawermice.com
 DOMAIN-SUFFIX,drawservant.com
 DOMAIN-SUFFIX,dressexpansion.com
@@ -3204,7 +3207,6 @@ DOMAIN-SUFFIX,email.mail.floatme.io
 DOMAIN-SUFFIX,email.mail.primexbt.com
 DOMAIN-SUFFIX,email.mccoys.com
 DOMAIN-SUFFIX,email.member.theknot.com
-DOMAIN-SUFFIX,email.mg.everyonesocial.com
 DOMAIN-SUFFIX,email.mymandg.co.uk
 DOMAIN-SUFFIX,email.participaction.com
 DOMAIN-SUFFIX,email.pray.com
@@ -4089,6 +4091,7 @@ DOMAIN-SUFFIX,hits.antena3.com
 DOMAIN-SUFFIX,hits.dealer.com
 DOMAIN-SUFFIX,hits.eluniversal.com.mx
 DOMAIN-SUFFIX,hits.informer.com
+DOMAIN-SUFFIX,hits.porn.fr
 DOMAIN-SUFFIX,hits.zdnet.co.kr
 DOMAIN-SUFFIX,hitserver.ibope.com.br
 DOMAIN-SUFFIX,hiuplq.diretta.it
@@ -4646,6 +4649,7 @@ DOMAIN-SUFFIX,k.truffaut.com
 DOMAIN-SUFFIX,k.voyageursdumonde.fr
 DOMAIN-SUFFIX,k4fu.verif.com
 DOMAIN-SUFFIX,k54nw.pw
+DOMAIN-SUFFIX,k5a.io
 DOMAIN-SUFFIX,ka.ilius.net
 DOMAIN-SUFFIX,kabokc.webuy.com
 DOMAIN-SUFFIX,kaden.netoff.co.jp
@@ -11236,6 +11240,7 @@ DOMAIN-SUFFIX,tracking.scoresandodds.com
 DOMAIN-SUFFIX,tracking.seakeeper.com
 DOMAIN-SUFFIX,tracking.searchmarketing.com
 DOMAIN-SUFFIX,tracking.selective.com
+DOMAIN-SUFFIX,tracking.sexcash.com
 DOMAIN-SUFFIX,tracking.sezzle.com
 DOMAIN-SUFFIX,tracking.sfitrucks.com
 DOMAIN-SUFFIX,tracking.sharplink.us

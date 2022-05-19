@@ -1,6 +1,9 @@
 # 代理补充规则
 # 机场
 DOMAIN-SUFFIX,tianshuhl.com
+DOMAIN-SUFFIX,tshl.ru
+DOMAIN-SUFFIX,tshl.online
+DOMAIN-SUFFIX,tshl.cc
 
 # porn
 DOMAIN-SUFFIX,0plkijj.vip

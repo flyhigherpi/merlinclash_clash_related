@@ -1,1 +1,1 @@
-clashM-armv7-66db2_upx
+clashM-armv7-v1.11.1_upx

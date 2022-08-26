@@ -1,12 +1,28 @@
 # 内容：ByteDance
-# 数量：27条
+# 数量：43条
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,bdxiguaimg.com
+DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,huoshanzhibo.com
+DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kspkg.com

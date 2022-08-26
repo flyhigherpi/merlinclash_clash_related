@@ -7,6 +7,12 @@ DOMAIN-SUFFIX,f1authentics.com
 DOMAIN-SUFFIX,fiaformula1.com
 DOMAIN-SUFFIX,fiaformula2.com
 DOMAIN-SUFFIX,fiaformula3.com
+DOMAIN-SUFFIX,f1esports.com
+DOMAIN-SUFFIX,f1manager.com
+DOMAIN-SUFFIX,f1play.com
+DOMAIN-SUFFIX,bitmovin.com
+DOMAIN,d2n9h2wits23hf.cloudfront.net
+DOMAIN,f1prodlive.akamaized.net
 
 # 🇧🇭 Bahrain Grand Prix
 DOMAIN-SUFFIX,bahraingp.com

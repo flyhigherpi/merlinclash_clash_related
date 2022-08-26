@@ -7,3 +7,6 @@ DOMAIN,checkipv6.synology.com
 DOMAIN,checkport.synology.com
 DOMAIN-SUFFIX,sellercentral.amazon.com
 DOMAIN-SUFFIX,advertising.amazon.com
+# steam
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,test.steampowered.com

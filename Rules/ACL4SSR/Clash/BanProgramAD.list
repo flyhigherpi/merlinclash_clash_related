@@ -562,7 +562,6 @@ DOMAIN-SUFFIX,dvb.pandora.xiaomi.com
 DOMAIN-SUFFIX,jellyfish.pandora.xiaomi.com
 DOMAIN-SUFFIX,migc.g.mi.com
 DOMAIN-SUFFIX,migcreport.g.mi.com
-DOMAIN-SUFFIX,mis.g.mi.com
 DOMAIN-SUFFIX,notice.game.xiaomi.com
 DOMAIN-SUFFIX,ppurifier.game.xiaomi.com
 DOMAIN-SUFFIX,r.browser.miui.com
@@ -798,7 +797,6 @@ DOMAIN-SUFFIX,yads.yahoo.co.jp
 DOMAIN-SUFFIX,ybp.yahoo.com
 
 # Zhihu
-DOMAIN-SUFFIX,sugar.zhihu.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 
 # Ads in Video apps 下面都是 ********************

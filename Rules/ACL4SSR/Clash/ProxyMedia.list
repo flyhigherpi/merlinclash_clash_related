@@ -1,6 +1,6 @@
 # 内容：国外媒体列表
-# 更新：2022-03-03 22:44:48
-# 数量：323条
+# 更新：2022-08-21 16:52:00
+# 数量：327条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -93,6 +93,11 @@ DOMAIN-SUFFIX,sentry.io
 USER-AGENT,Deezer*
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dzcdn.net
+
+# DiscoveryPlus
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discovery.com
+DOMAIN-SUFFIX,uplynk.com
 
 # DisneyPlus
 USER-AGENT,Disney*
@@ -219,6 +224,7 @@ DOMAIN-SUFFIX,kkbox.com.tw
 USER-AGENT,KKTV*
 USER-AGENT,com.kktv.ios.kktv*
 DOMAIN,kktv-theater.kk.stream
+DOMAIN,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 

@@ -35,7 +35,6 @@ DOMAIN-KEYWORD,bilibili
 DOMAIN-KEYWORD,ccgslb
 DOMAIN-KEYWORD,chinacache
 DOMAIN-KEYWORD,duobao
-DOMAIN-KEYWORD,duolingo
 DOMAIN-KEYWORD,jdpay
 DOMAIN-KEYWORD,moke
 DOMAIN-KEYWORD,qhimg
@@ -137,13 +136,29 @@ DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 
 # ByteDance
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,bdxiguaimg.com
+DOMAIN-SUFFIX,bdxiguastatic.com
+DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedns.net
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,huoshan.com
+DOMAIN-SUFFIX,huoshanzhibo.com
+DOMAIN-SUFFIX,ibytedapm.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,kspkg.com
@@ -287,10 +302,16 @@ DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,sinaapp.cn
 DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,xiaoka.tv
 
 # Sohu Sogo

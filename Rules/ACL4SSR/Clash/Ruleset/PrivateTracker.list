@@ -1,5 +1,5 @@
 # 内容：Private Tracker
-# 数量：112条
+# 数量：113条
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,animetorrents.me
 DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,asiancinema.me
+DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,avgv.cc
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,awesome-hd.me

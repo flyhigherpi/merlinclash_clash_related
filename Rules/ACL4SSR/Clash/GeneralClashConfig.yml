@@ -429,6 +429,7 @@ cfw-bypass:
   - "*.douyutv.com"
   # Epic
   - "*.epicgames.com"
+  - "*.epicgames.dev"
   - "*.helpshift.com"
   - "*.paragon.com"
   - "*.unrealengine.com"
@@ -704,8 +705,6 @@ cfw-bypass:
   - "*.clouddn.com"
   - "*.cloudxns.net"
   - "*.cn163.net"
-  - "*.cnbeta.com"
-  - "*.cnbetacdn.com"
   - "*.cnblogs.com"
   - "*.cnki.net"
   - "*.cnmstl.net"

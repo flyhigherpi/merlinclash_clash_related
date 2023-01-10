@@ -1,5 +1,5 @@
 # 内容：AccelerateDirectSites
-# 数量：237条
+# 数量：235条
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,12306.com
@@ -43,8 +43,6 @@ DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,clouddn.com
 DOMAIN-SUFFIX,cloudxns.net
 DOMAIN-SUFFIX,cn163.net
-DOMAIN-SUFFIX,cnbeta.com
-DOMAIN-SUFFIX,cnbetacdn.com
 DOMAIN-SUFFIX,cnblogs.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,cnmstl.net

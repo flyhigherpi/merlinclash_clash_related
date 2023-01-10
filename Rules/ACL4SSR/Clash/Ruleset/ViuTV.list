@@ -1,7 +1,6 @@
 # 内容：ViuTV
-# 数量：17条
+# 数量：16条
 USER-AGENT,Viu*
-USER-AGENT,ViuTV*
 DOMAIN,api.viu.now.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net

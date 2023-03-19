@@ -1,5 +1,5 @@
 # 内容：Private Tracker
-# 数量：114条
+# 数量：116条
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,tracker
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,bt.byr.cn
 DOMAIN-SUFFIX,bt.neu6.edu.cn
 DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,bwtorrents.tv
+DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,ccfbits.org
 DOMAIN-SUFFIX,cgpeers.com
 DOMAIN-SUFFIX,chdbits.co
@@ -105,6 +106,7 @@ DOMAIN-SUFFIX,sjtu.edu.cn
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,torrentday.com
 DOMAIN-SUFFIX,torrentleech.org

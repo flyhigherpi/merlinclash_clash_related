@@ -6,7 +6,9 @@ DOMAIN-SUFFIX,adguard.org
 DOMAIN-SUFFIX,bit.no.com
 DOMAIN-SUFFIX,btlibrary.me
 DOMAIN-SUFFIX,cccat.io
+DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,cloudcone.com
+DOMAIN-SUFFIX,dubox.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,garena.com
 DOMAIN-SUFFIX,hoyolab.com
@@ -15,6 +17,7 @@ DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,teddysun.com
@@ -234,6 +237,7 @@ DOMAIN-SUFFIX,advanscene.com
 DOMAIN-SUFFIX,advertfan.com
 DOMAIN-SUFFIX,advertisercommunity.com
 DOMAIN-SUFFIX,ae.org
+DOMAIN-SUFFIX,aei.org
 DOMAIN-SUFFIX,aenhancers.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,af.mil

@@ -1,5 +1,5 @@
 # 内容：AmazonIp
-# 数量：1329条
+# 数量：1334条
 IP-CIDR,3.0.0.0/15,no-resolve
 IP-CIDR,3.2.0.0/24,no-resolve
 IP-CIDR,3.2.2.0/23,no-resolve
@@ -80,6 +80,7 @@ IP-CIDR,13.34.2.0/26,no-resolve
 IP-CIDR,13.34.2.128/26,no-resolve
 IP-CIDR,13.34.3.128/25,no-resolve
 IP-CIDR,13.34.4.64/26,no-resolve
+IP-CIDR,13.34.4.192/26,no-resolve
 IP-CIDR,13.34.5.0/24,no-resolve
 IP-CIDR,13.34.6.192/26,no-resolve
 IP-CIDR,13.34.7.0/25,no-resolve
@@ -144,6 +145,9 @@ IP-CIDR,13.34.72.0/21,no-resolve
 IP-CIDR,13.34.80.0/21,no-resolve
 IP-CIDR,13.34.88.0/22,no-resolve
 IP-CIDR,13.34.92.0/24,no-resolve
+IP-CIDR,13.34.93.0/25,no-resolve
+IP-CIDR,13.34.93.128/26,no-resolve
+IP-CIDR,13.34.94.0/26,no-resolve
 IP-CIDR,13.35.0.0/16,no-resolve
 IP-CIDR,13.36.0.0/14,no-resolve
 IP-CIDR,13.40.0.0/14,no-resolve
@@ -208,7 +212,9 @@ IP-CIDR,15.221.0.0/19,no-resolve
 IP-CIDR,15.221.32.0/20,no-resolve
 IP-CIDR,15.221.48.0/22,no-resolve
 IP-CIDR,15.221.52.0/23,no-resolve
-IP-CIDR,15.221.128.0/22,no-resolve
+IP-CIDR,15.221.128.0/21,no-resolve
+IP-CIDR,15.221.144.0/21,no-resolve
+IP-CIDR,15.221.152.0/24,no-resolve
 IP-CIDR,15.222.0.0/15,no-resolve
 IP-CIDR,15.228.0.0/15,no-resolve
 IP-CIDR,15.230.0.4/30,no-resolve
@@ -260,6 +266,7 @@ IP-CIDR,15.230.62.0/24,no-resolve
 IP-CIDR,15.230.63.0/30,no-resolve
 IP-CIDR,15.230.63.4/31,no-resolve
 IP-CIDR,15.230.63.6/32,no-resolve
+IP-CIDR,15.230.63.8/31,no-resolve
 IP-CIDR,15.230.64.0/21,no-resolve
 IP-CIDR,15.230.72.0/22,no-resolve
 IP-CIDR,15.230.76.0/23,no-resolve
@@ -267,7 +274,7 @@ IP-CIDR,15.230.78.0/24,no-resolve
 IP-CIDR,15.230.79.0/25,no-resolve
 IP-CIDR,15.230.79.128/26,no-resolve
 IP-CIDR,15.230.80.0/20,no-resolve
-IP-CIDR,15.230.96.0/23,no-resolve
+IP-CIDR,15.230.96.0/22,no-resolve
 IP-CIDR,15.230.129.0/24,no-resolve
 IP-CIDR,15.230.130.0/23,no-resolve
 IP-CIDR,15.230.132.0/24,no-resolve
@@ -1019,9 +1026,7 @@ IP-CIDR,98.80.0.0/12,no-resolve
 IP-CIDR,98.130.0.0/15,no-resolve
 IP-CIDR,99.77.0.0/18,no-resolve
 IP-CIDR,99.77.128.0/18,no-resolve
-IP-CIDR,99.77.233.0/24,no-resolve
-IP-CIDR,99.77.234.0/23,no-resolve
-IP-CIDR,99.77.236.0/22,no-resolve
+IP-CIDR,99.77.232.0/21,no-resolve
 IP-CIDR,99.77.240.0/21,no-resolve
 IP-CIDR,99.77.248.0/22,no-resolve
 IP-CIDR,99.77.252.0/23,no-resolve

@@ -193,7 +193,7 @@ DOMAIN-SUFFIX,pbs.org
 # Pandora
 DOMAIN-SUFFIX,pandora.com
 DOMAIN-SUFFIX,pandora.tv
- #porn
+# porn
 DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com

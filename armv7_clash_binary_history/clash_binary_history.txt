@@ -1,3 +1,0 @@
-clashM-armv7-v1.16.0_upx
-clashM-armv7-v1.15.0_upx
-clashP-armv7-2022.08.26_upx

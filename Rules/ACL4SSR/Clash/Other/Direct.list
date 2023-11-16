@@ -1,0 +1,12 @@
+# 微软网络检查服务
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msftconnecttest.com
+# 直连补充规则
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN-SUFFIX,sellercentral.amazon.com
+DOMAIN-SUFFIX,advertising.amazon.com
+# steam
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,test.steampowered.com

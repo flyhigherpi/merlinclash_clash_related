@@ -7,8 +7,3 @@
 "content5":"<em style='color: gold;'>精灵学院：<a href='https://info.riolu.icu' target='_blank'>全中转隧道机场 / 解锁流媒体,Tiktok,ChatGPT / 专属EMBY服务,月付低至6元。</a></em>",
 "content6":"<marquee><em style='color: gold;'>亻弗系老木几土昜：</em>&nbsp;&nbsp;<a href='https://tshl.work/auth/register?code=K36yIuUM1aQePNOpGVTeBrxY0hhN2aGU' target='_blank'>【天枢互联】</a>新春优惠码：年付&nbsp;&nbsp;<em style='color: white;'>jG813hJM</em></marquee>"
 }
-=======
-"content5":"<em style='color: gold;'>精灵学院：<a href='https://info.riolu.icu' target='_blank'>全中转隧道机场 / 解锁流媒体,Tiktok,ChatGPT / 专属EMBY服务, 注册试用3小时, 新春折扣码 STJKWSRY</a></em>",
-"content6":"<marquee><em style='color: gold;'>亻弗系老木几土昜：</em>&nbsp;&nbsp;<a href='https://tshl.work/auth/register?code=K36yIuUM1aQePNOpGVTeBrxY0hhN2aGU' target='_blank'>【天枢互联】</a>9折优惠码：月付&nbsp;&nbsp;<em style='color: white;'>6qREHDLE</em>&nbsp;&nbsp;年付&nbsp;&nbsp;<em style='color: white;'>PR6MmaKA</em></marquee>"
-}
->>>>>>> 7bf265501a4ac257151c20b44055359e053b126e

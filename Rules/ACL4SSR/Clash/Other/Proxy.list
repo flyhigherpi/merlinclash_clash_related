@@ -7,7 +7,11 @@ DOMAIN-SUFFIX,tshl.cc
 DOMAIN-SUFFIX,tshl.us
 DOMAIN-SUFFIX,tshl.xyz
 
+# twitter
+DOMAIN-SUFFIX,x.com
+
 # porn
+DOMAIN-SUFFIX,avtoday.io
 DOMAIN-SUFFIX,0plkijj.vip
 DOMAIN-SUFFIX,114av.xyz
 DOMAIN-SUFFIX,128100.xyz
@@ -377,6 +381,7 @@ DOMAIN-SUFFIX,a.nel.cloudflare.com
 IP-CIDR,104.17.107.0/24,no-resolve
 
 # MyList && Other
+DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,duyaoss.com
